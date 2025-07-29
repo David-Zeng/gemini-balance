@@ -11,7 +11,7 @@
   "permissions": {
     "contents": "write",
     "actions": "write",
-    workflows: write
+    "workflows": "write"
   },
   "jobs": {
     "sync_latest_from_upstream": {
